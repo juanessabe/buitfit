@@ -1,0 +1,9 @@
+:root{
+  /* Colores */
+  --color-black: black;
+  --color-purple: #72066A;
+  --color-white: white;
+  /* Fuentes */
+  --font-titles: 'Montserrat', sans-serif;
+  --font-content: 'Unna', serif;
+}
